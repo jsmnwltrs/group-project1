@@ -1,0 +1,38 @@
+.allCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.card {
+    box-shadow: 10px 5px 5px gray;
+    width: 30%;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.header {
+    border: 1px solid lightblue;
+    justify-content: center;
+    display: flex;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.image1 {
+    max-width: 75%;
+    max-height: 75%;
+}
+
+.dog-name {
+    justify-content: center;
+}
+
+
+
