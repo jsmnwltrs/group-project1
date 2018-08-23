@@ -11,7 +11,7 @@
 }
 
 .border {
-    border: 1px solid black;
+    border: 1px solid lightblue;
 }
 
 .header {
@@ -25,14 +25,25 @@
     justify-content: center;
 }
 
+.description {
+    text-align: justify;
+}
+
 .image1 {
-    max-width: 75%;
-    max-height: 75%;
+    max-width: 100%;
 }
 
 .dog-name {
     justify-content: center;
 }
 
+.size, .weight, .price1, .price2, .price3 {
+    font-weight: bold;
+}
+
+.availabilitiy {
+    background-color: gray;
+    color: yellow;
+}
 
 
